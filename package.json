@@ -4,7 +4,7 @@
   "description": "<a name=\"readme-top\"></a>",
   "main": "Task-one.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/zewdu444/Testing_practice/issues"
   },
-  "homepage": "https://github.com/zewdu444/Testing_practice#readme"
+  "homepage": "https://github.com/zewdu444/Testing_practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "@types/jest": "^29.2.6"
+  }
 }
