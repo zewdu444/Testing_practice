@@ -1,0 +1,19 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "Task-one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zewdu444/Testing_practice.git"
+  },
+  "author": "zewdu erkyhun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zewdu444/Testing_practice/issues"
+  },
+  "homepage": "https://github.com/zewdu444/Testing_practice#readme"
+}
