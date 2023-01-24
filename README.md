@@ -24,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <h3><b>Todo list application</b></h3>
+  <h3><b>Testing practice</b></h3>
 
 </div>
 
@@ -52,35 +52,27 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 TodoList application <a name="about-project"></a>
+# 📖 Testing practice<a name="about-project"></a>
 
-> This project is a part of Microverse in JavaScript and networking module, and it was utilized to create daily tasks, label them complete, and remove them from our task lists, it used webpack as a module bundler, and it is a minimalist web application.
+> It served as testing practice folder which main used Jest library by following AAA pattern as well as TDD approach.
 
 ## 🛠 Built With <a name="built-with"> </a>
 
-> HTML 5 , css3, javascript ES6, NPM and webpack.
+> javascript ES6, NPM and Jest.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML 5 , css3, javascript ES6, NPM and webpack
+> javascript ES6, NPM and Jest.
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
- <li>Display daily tasks</li>
- <li>Create daily tasks</li>
- <li>Edit daily tasks</li>
-<li>Remove tasks</li>
-<li>Store in local storage</li>
-<li>Strike through complete tasks</li>
-<li>Clear completed tasks </li>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p><!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> https://zewdu444.github.io/Todo_list/
+>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,15 +82,14 @@ After you're finished please remove all the comments and instructions!
 
 to run on your localhost clone the project to local folder
 
-> cd Todo_list
+> cd Testing_practice
 > npm i
-> npm run server
-> open your brower locate to localhost:3000
+> npm run test
 
 ### Setup
 
-> <p> git clone https://github.com/zewdu444/Todo_list.git</p>
-> cd Todo_list
+> <p> git clonehttps://github.com/zewdu444/Testing_practice.git</p>
+> cd Testing_practice
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +97,6 @@ to run on your localhost clone the project to local folder
 
 In order to run this project you only need:
 
-- latest web-browser
 - node.js and npm
 
 ### Install
@@ -114,13 +104,7 @@ In order to run this project you only need:
 To install this project in your local machine use
 
 > npm i
-> npm run build
-
-### Usage
-
-To run the project, execute the following command:
-
-> In visual studio code Go to dist folder then open index.html in live server.
+> npm run test
 
 <!-- AUTHORS -->
 
@@ -136,13 +120,13 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Improve into single page application with navigation
+>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zewdu444/Todo_list/issues).
+Feel free to check the [issues page](https://github.com/zewdu444/Testing_practice/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- SUPPORT -->
